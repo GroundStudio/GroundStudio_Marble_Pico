@@ -1,0 +1,24 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 56771477-e1fd-44cc-9e62-f2d43d95052a)
+
+  (paper "A3")
+
+  (title_block
+    (title "RLJDMV_GS Marble Pico")
+    (date "2022-12-14")
+    (rev "0.0.3")
+    (company "GroundStudio.ro")
+    (comment 1 "Schematic: Victor Nicula")
+  )
+
+  (lib_symbols
+  )
+
+
+  (text "Rev0.0.1 (Victor N.)\n- initial version\nRev0.0.2 (Victor N.)\n- fixed wrong pinheader orientation\nRev0.0.3 (Victor N.)\n- changed flash size to 64Mb\n- changed the SPI port connection for the microSD adapter\n- disconnected DAT1 and DAT2 pins of the microSD adapter\n- changed the I2C port connection for the I2C_3V3 connector\n- added solder-jumper between VBAT and R23 for better battery power-saving"
+    (at 24.13 73.66 0)
+    (effects (font (size 3 3)) (justify left bottom))
+    (uuid db6e1f6a-3459-4011-a916-5e8f6fb7e395)
+  )
+)
