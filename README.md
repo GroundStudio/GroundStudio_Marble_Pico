@@ -7,21 +7,20 @@ Explore all the GroundStudio products at [GroundStudio.ro](https://groundstudio.
 
 Description
 -------------------
-Short description of the board.
+RP2040 based development board with 26 GPIO, 16 controllable PWM channels, three 12-bit ADC with dedicated ADC voltage reference, 8MB external SPI Flash memory, I²C 3V3 adapter, microSD card adapter, 1 cell LiPo/LiIon battery charger with optional battery connector.
 
 Contents
 -------------------
 
-* [/Documentation](https://github.com/GroundStudio) -- Contains documentation written during creation of this repository, with readme.md index of its own!
-* [/Firmware](https://github.com/GroundStudio) -- Firmware (bootloaders, etc)
-* [/Hardware](https://github.com/GroundStudio) -- Schematics, layout.
-* [/Libraries](https://github.com/GroundStudio) -- Arduino/CircuitPython libraries. 
-* [/Tools](https://github.com/GroundStudio) -- Tools needed for compiling, uploading bootloader, etc.
+* [/Documentation](https://github.com/GroundStudio/GroundStudio_Marble_Pico/tree/main/Documentation) -- Contains documentation written during creation of this repository, with readme.md index of its own!
+* [/Firmware](https://github.com/GroundStudio/GroundStudio_Marble_Pico/tree/main/Firmware) -- Firmware (bootloaders, etc)
+* [/Hardware](https://github.com/GroundStudio/GroundStudio_Marble_Pico/tree/main/Hardware) -- Schematics, layout.
+* [/Libraries](https://github.com/GroundStudio/GroundStudio_Marble_Pico/tree/main/Libraries) -- Arduino/CircuitPython libraries. 
 
 Versions
 -------------------
 *(Not all tags shown)*
-* [V0.0.1] Initial version
+* [V0.0.3] Initial release version
 
 License
 -------------------
