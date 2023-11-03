@@ -26,6 +26,6 @@ License
 -------------------
 
 This is released under the [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) license. 
-**You are welcome to use this library for commercial purposes.**
+**You are welcome to use this for commercial purposes.**
 
-Please consider contributing back to this library or others to help the open-source hardware community continue to thrive and grow! 
+Please consider contributing back to this project or others to help the open-source hardware community continue to thrive and grow! 
