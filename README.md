@@ -1,13 +1,14 @@
-GroundStudio
+GroundStudio Marble Pico
 ====================================
+![Marble Pico REV0 0 3](https://github.com/GroundStudio/GroundStudio_Marble_Pico/assets/77836107/5c4af479-86a2-410a-b61f-0af129a0b0b1)
 
-Get it from [ardushop.ro](https://ardushop.ro/ro/)
+Get it from [ardushop.ro](https://ardushop.ro/ro/home/2652-marble-pico.html)
 
 Explore all the GroundStudio products at [GroundStudio.ro](https://groundstudio.ro/)
 
 Description
 -------------------
-RP2040 based development board with 26 GPIO, 16 controllable PWM channels, three 12-bit ADC with dedicated ADC voltage reference, 8MB external SPI Flash memory, I²C 3V3 adapter, microSD card adapter, 1 cell LiPo/LiIon battery charger with optional battery connector.
+RP2040 based development board with 26 GPIO, 16 controllable PWM channels, three 12-bit ADC with dedicated ADC voltage reference, 8MB external SPI Flash memory, I²C 3V3 adapter and microSD card adapter.
 
 Contents
 -------------------
