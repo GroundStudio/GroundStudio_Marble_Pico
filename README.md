@@ -25,7 +25,7 @@ Versions
 
 License
 -------------------
-[![certification-mark-RO000001-wide](https://github.com/GroundStudio/GroundStudio_Marble_Pico/assets/77836107/d7cc34db-90d8-43c5-8947-5ca1ad213ec5)](https://certification.oshwa.org/ro000001.html)
+[![certification-mark-RO000001-wide](https://github.com/GroundStudio/GroundStudio_Marble_Pico/assets/77836107/d7cc34db-90d8-43c5-8947-5ca1ad213ec5)](https://certification.oshwa.org/ro000001.html){:target="_blank" rel="noopener"}
 
 This is released under the [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) license. 
 **You are welcome to use this for commercial purposes.**
