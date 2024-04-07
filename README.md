@@ -2,7 +2,11 @@ GroundStudio Marble Pico
 ====================================
 ![Marble Pico REV0 0 3](https://github.com/GroundStudio/GroundStudio_Marble_Pico/assets/77836107/5c4af479-86a2-410a-b61f-0af129a0b0b1)
 
-Get it from [ardushop.ro](https://ardushop.ro/ro/home/2652-marble-pico.html)
+Get it from:
+
+[digikey.com](https://www.digikey.com/en/products/detail/groundstudio/RLJDMV-AAA/21080805)
+
+[ardushop.ro](https://ardushop.ro/ro/home/2652-marble-pico.html)
 
 Explore all the GroundStudio products at [GroundStudio.ro](https://groundstudio.ro/)
 
