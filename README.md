@@ -6,9 +6,9 @@ Get it from:
 
 [digikey.com](https://www.digikey.com/en/products/detail/groundstudio/RLJDMV-AAA/21080805)
 
-[ardushop.ro](https://ardushop.ro/ro/home/2652-marble-pico.html)
+[ardushop.ro](https://ardushop.ro/en/groundstudio/1590-marble-pico-6427854000682.html)
 
-Explore all the GroundStudio products at [GroundStudio.ro](https://groundstudio.ro/)
+Explore all the GroundStudio products at [ardushop.ro](https://ardushop.ro/en/37-groundstudio)
 
 Description
 -------------------
